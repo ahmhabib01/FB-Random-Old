@@ -29,13 +29,13 @@ pkg install python
 pip install requests
 ```
 ```bash
-git clone https://github.com/ahmhabib01/Facebook-Auto-Dump.git
+git clone https://github.com/ahmhabib01/FB-Random-Old
 ```
 ```bash
-cd Facebook-Auto-Dump
+cd FB-Random-Old
 ```
 ```bash
-python Autodump.py
+python old.py
 ```
 
 ## ⚠️𝐖𝐀𝐑𝐍𝐈𝐍𝐆!⚠️
